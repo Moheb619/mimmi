@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/mimmi/static/css/main.31d6cfe0.css",
+    "main.js": "/mimmi/static/js/main.1239c4e1.js",
+    "index.html": "/mimmi/index.html",
+    "main.1239c4e1.js.map": "/mimmi/static/js/main.1239c4e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.1239c4e1.js"
+  ]
+}
